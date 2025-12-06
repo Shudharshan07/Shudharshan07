@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Greeting GIF](assets/name.gif)
 
 ## My Skill Set:
 

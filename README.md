@@ -1,18 +1,16 @@
-## Hi there, Iam
+<div align="right">
+  <img src="assets/signal.svg" width="24" height="24" />
+  &nbsp;
+  <img src="assets/battery.svg" width="24" height="24" />
+</div>
 
-<pre>
-      ___           ___           ___           ___           ___           ___           ___           ___           ___           ___           ___     
-     /\  \         /\__\         /\__\         /\  \         /\__\         /\  \         /\  \         /\  \         /\__\         /\  \         /\__\    
-    /::\  \       /:/  /        /:/  /        /::\  \       /:/  /        /::\  \       /::\  \       /::\  \       /:/  /        /::\  \       /::|  |   
-   /:/\ \  \     /:/__/        /:/  /        /:/\:\  \     /:/__/        /:/\:\  \     /:/\:\  \     /:/\ \  \     /:/__/        /:/\:\  \     /:|:|  |   
-  _\:\~\ \  \   /::\  \ ___   /:/  /  ___   /:/  \:\__\   /::\  \ ___   /::\~\:\  \   /::\~\:\  \   _\:\~\ \  \   /::\  \ ___   /::\~\:\  \   /:/|:|  |__ 
- /\ \:\ \ \__\ /:/\:\  /\__\ /:/__/  /\__\ /:/__/ \:|__| /:/\:\  /\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /\ \:\ \ \__\ /:/\:\  /\__\ /:/\:\ \:\__\ /:/ |:| /\__\
- \:\ \:\ \/__/ \/__\:\/:/  / \:\  \ /:/  / \:\  \ /:/  / \/__\:\/:/  / \/__\:\/:/  / \/_|::\/:/  / \:\ \:\ \/__/ \/__\:\/:/  / \/__\:\/:/  / \/__|:|/:/  /
-  \:\ \:\__\        \::/  /   \:\  /:/  /   \:\  /:/  /       \::/  /       \::/  /     |:|::/  /   \:\ \:\__\        \::/  /       \::/  /      |:/:/  / 
-   \:\/:/  /        /:/  /     \:\/:/  /     \:\/:/  /        /:/  /        /:/  /      |:|\/__/     \:\/:/  /        /:/  /        /:/  /       |::/  /  
-    \::/  /        /:/  /       \::/  /       \::/__/        /:/  /        /:/  /       |:|  |        \::/  /        /:/  /        /:/  /        /:/  /   
-     \/__/         \/__/         \/__/         ~~            \/__/         \/__/         \|__|         \/__/         \/__/         \/__/         \/__/    
-</pre>
+<div align="center">
+  <img src="assets/scene.svg" width="100%" />
+</div>
+
+<div align="center">
+  <img src="assets/Shudharshan.svg" height="100" alt="Shudharshan" />
+</div>
 
 ## My Skill Set:
 
@@ -43,4 +41,3 @@
     <a href="https://leetcode.com/u/Shudharshan007/" target="_blank"><img src="https://img.shields.io/badge/-Shudharshan P-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
     <a href="https://medium.com/@shudharshan07" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
 </div>
-

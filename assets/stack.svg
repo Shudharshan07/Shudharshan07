@@ -1,0 +1,113 @@
+<svg width="800" height="260" viewBox="0 0 800 260" fill="none" xmlns="http://www.w3.org/2000/svg" class="stack">
+  <style>
+    .stack { color: hsl(0 0% 20%); }
+    @media (prefers-color-scheme: dark) {
+      .stack { color: hsl(0 0% 98%); }
+    }
+    .label {
+      font-family: ui-monospace, 'Cascadia Code', monospace;
+      font-size: 11px;
+      fill: currentColor;
+      opacity: 0.5;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    .badge-text {
+      font-family: ui-monospace, 'Cascadia Code', monospace;
+      font-size: 12px;
+      fill: currentColor;
+      dominant-baseline: middle;
+    }
+    .badge-rect {
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 1;
+      opacity: 0.35;
+      rx: 6;
+    }
+    .badge-group { opacity: 0.85; }
+    .divider {
+      stroke: currentColor;
+      stroke-width: 1;
+      opacity: 0.12;
+    }
+  </style>
+
+  <!-- section label: Languages -->
+  <text x="40" y="28" class="label">Languages</text>
+  <line x1="40" y1="38" x2="760" y2="38" class="divider"/>
+
+  <!-- row 1 badges: languages -->
+  <!-- C -->
+  <g class="badge-group" transform="translate(40, 50)">
+    <rect width="36" height="28" rx="6" class="badge-rect"/>
+    <text x="18" y="15" text-anchor="middle" class="badge-text">C</text>
+  </g>
+  <!-- C++ -->
+  <g class="badge-group" transform="translate(86, 50)">
+    <rect width="44" height="28" rx="6" class="badge-rect"/>
+    <text x="22" y="15" text-anchor="middle" class="badge-text">C++</text>
+  </g>
+  <!-- Java -->
+  <g class="badge-group" transform="translate(140, 50)">
+    <rect width="48" height="28" rx="6" class="badge-rect"/>
+    <text x="24" y="15" text-anchor="middle" class="badge-text">Java</text>
+  </g>
+  <!-- Python -->
+  <g class="badge-group" transform="translate(198, 50)">
+    <rect width="62" height="28" rx="6" class="badge-rect"/>
+    <text x="31" y="15" text-anchor="middle" class="badge-text">Python</text>
+  </g>
+  <!-- Go -->
+  <g class="badge-group" transform="translate(270, 50)">
+    <rect width="38" height="28" rx="6" class="badge-rect"/>
+    <text x="19" y="15" text-anchor="middle" class="badge-text">Go</text>
+  </g>
+  <!-- Dart / Flutter -->
+  <g class="badge-group" transform="translate(318, 50)">
+    <rect width="60" height="28" rx="6" class="badge-rect"/>
+    <text x="30" y="15" text-anchor="middle" class="badge-text">Flutter</text>
+  </g>
+
+  <!-- section label: Tools & Others -->
+  <text x="40" y="118" class="label">Tools &amp; Others</text>
+  <line x1="40" y1="128" x2="760" y2="128" class="divider"/>
+
+  <!-- row 2 badges: tools -->
+  <!-- Git -->
+  <g class="badge-group" transform="translate(40, 140)">
+    <rect width="36" height="28" rx="6" class="badge-rect"/>
+    <text x="18" y="15" text-anchor="middle" class="badge-text">Git</text>
+  </g>
+  <!-- GitHub -->
+  <g class="badge-group" transform="translate(86, 140)">
+    <rect width="62" height="28" rx="6" class="badge-rect"/>
+    <text x="31" y="15" text-anchor="middle" class="badge-text">GitHub</text>
+  </g>
+  <!-- Supabase -->
+  <g class="badge-group" transform="translate(158, 140)">
+    <rect width="74" height="28" rx="6" class="badge-rect"/>
+    <text x="37" y="15" text-anchor="middle" class="badge-text">Supabase</text>
+  </g>
+  <!-- Figma -->
+  <g class="badge-group" transform="translate(242, 140)">
+    <rect width="56" height="28" rx="6" class="badge-rect"/>
+    <text x="28" y="15" text-anchor="middle" class="badge-text">Figma</text>
+  </g>
+  <!-- Postman -->
+  <g class="badge-group" transform="translate(308, 140)">
+    <rect width="72" height="28" rx="6" class="badge-rect"/>
+    <text x="36" y="15" text-anchor="middle" class="badge-text">Postman</text>
+  </g>
+  <!-- VS Code -->
+  <g class="badge-group" transform="translate(390, 140)">
+    <rect width="68" height="28" rx="6" class="badge-rect"/>
+    <text x="34" y="15" text-anchor="middle" class="badge-text">VS Code</text>
+  </g>
+  <!-- IntelliJ -->
+  <g class="badge-group" transform="translate(468, 140)">
+    <rect width="72" height="28" rx="6" class="badge-rect"/>
+    <text x="36" y="15" text-anchor="middle" class="badge-text">IntelliJ</text>
+  </g>
+
+</svg>
